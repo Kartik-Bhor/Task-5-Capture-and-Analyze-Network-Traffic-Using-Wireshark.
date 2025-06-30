@@ -12,9 +12,9 @@ This project demonstrates basic network traffic capture using *Wireshark* and pr
    - Running ping google.com in terminal.
 4. *Stopped the capture* after ~1 minute of activity.
 5. *Filtered captured packets* using protocol filters like:
-   - http
+   - usp
    - dns
-   - tcp
+   - arp
 6. *Identified at least 3 different protocols*:
    - *UDP* – for live data feed.
    - *DNS* – resolving domain names.
