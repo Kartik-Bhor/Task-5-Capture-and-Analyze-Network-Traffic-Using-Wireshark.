@@ -27,3 +27,6 @@ This project demonstrates basic network traffic capture using *Wireshark* and pr
 UDP ->	Connectionless transport protocol	Used to carry DNS queries and responses.
 DNS ->	Resolves domain names to IPs	Query/response for websites like google.com.
 ARP ->	Maps IP addresses to MAC addresses	Seen as request/reply on local network.
+
+
+*Added screenshots and pcap file as proof*
